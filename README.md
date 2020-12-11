@@ -1,11 +1,8 @@
      
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### DEMO is [here](http://localhost:3000/)
 
 
-
-## Run Project
-### 1. Clone the project
 
 ### 2. Run the project
 ```shell
