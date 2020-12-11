@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "http://techuture.com/samuel_o_resume.io/",
+  "homepage": "http://EPIC448.github.io/samuel_o_resume.io/public/index.html",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
