@@ -50,22 +50,30 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"Flatiron School",
-        "degree":"Full Stack engineering",
-        "graduated":"Jun 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Udemy",
+        "degree":"Product Management",
+        "graduated":"May 2020",
+        "description":" Product Management covers data analytics, building software product, interview for product management, and scrum/ agile methodologies.   "
+                   
       },
       {
         "school":"Udemy",
-        "degree":"Product Managment /Algorithem & Data Structure",
+        "degree":"Algorithem & Data Structure",
         "graduated":"May 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Algorithem & Data Structure (ADS) is a lecture based on a algorithm analysis, Big-O notation, array, sequence, stacks queues,lists,recursion,trees, sorting and searching algorithms. And data they work with."
+                   
+      },
+      {
+        "school":"Flatiron School",
+        "degree":"Full Stack engineering",
+        "graduated":"Jun 2020",
+        "description":"An intense online coding bootcamp that teaches software engineering, computer programming, data science, and cybersecurity analytics"
       },
       {
         "school":"Lock Haven Univerity",
         "degree":"B.S Psychology(Research)/ Community Health",
         "graduated":"Feb 2014",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":" With B.S in Psychology, I lead  research within and outside of the USA, ran 2 nurse home representing an estimated annual $14 million of service."
       }
       
     ],
