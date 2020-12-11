@@ -1,7 +1,5 @@
      
 
-### DEMO is [here](http://localhost:3000/)
-
 
 
 ### 2. Run the project
