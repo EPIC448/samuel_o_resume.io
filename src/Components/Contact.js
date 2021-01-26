@@ -93,7 +93,7 @@ class Contact extends Component {
                      <li>
                         <span>
                         When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        <a href="#">http://techuture.com</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
