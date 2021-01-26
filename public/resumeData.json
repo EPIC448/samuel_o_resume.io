@@ -11,10 +11,10 @@
     "blog":  "http://techuture.com/ ",  
     "project":"https://github.com/EPIC448",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    
+      "city":"(Burlington)",
+      "state":"(New Jersey)"
+  
     },
     "website": "http://techuture.com/",
     "resumedownload":"https://drive.google.com/file/d/1DSPCPjiVSzETkdxn7EehGaQMiJchfzkV/view?usp=sharing",
