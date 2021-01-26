@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Samuel.oGun",
+    "description":"I am a Full Stack Developer with a mind for Product Management. I enjoy taking ideas from  concept to production.",
+    "image":"profilepic.jpg",
+    "bio":"Curiosity describes my journey be it fitness, coding, or running an e-commerce company. My background spans Psychology, Health, Products Management, and Web Development. My experiences have granted me the opportunity to take several projects and apps from concepts to launch. I look forward to working together.",
+    "contactmessage":"Dont be shy, reachout!!! and lets create  something amazing.",
+    "email": "samrey2018@gmail.com",
+    "phone": "4845380448",
+    "github":" https://github.com/EPIC448 ",
+    "blog":  "http://techuture.com/ ",  
+    "project":"https://github.com/EPIC448",
+    "address":{
+    
+      "city":"(Burlington)",
+      "state":"(New Jersey)"
+  
+    },
+    "website": "http://techuture.com/",
+    "resumedownload":"https://drive.google.com/file/d/1DSPCPjiVSzETkdxn7EehGaQMiJchfzkV/view?usp=sharing",
+    "social":[
+      {
+        "name":"Remove-facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"remove-twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/samuel48/ ",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":" remove-instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/EPIC448",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My next step is to leverage my natural strengths and experiences of Cross Collaboration, being a hub cross different teams to help companies create seamless applications and products, regardless of Full Stack engineering or a Product Management Role",
+    "education":[
+      {
+        "school":"Udemy",
+        "degree":"Product Management",
+        "graduated":"May 2020",
+        "description":" Product Management covers data analytics, building software product, interview for product management, and scrum/ agile methodologies.   "
+                   
+      },
+      {
+        "school":"Udemy",
+        "degree":"Algorithem & Data Structure",
+        "graduated":"May 2020",
+        "description":"Algorithem & Data Structure (ADS) is a lecture based on a algorithm analysis, Big-O notation, array, sequence, stacks queues,lists,recursion,trees, sorting and searching algorithms. And data they work with."
+                   
+      },
+      {
+        "school":"Flatiron School",
+        "degree":"Full Stack engineering",
+        "graduated":"Jun 2020",
+        "description":"An intense online coding bootcamp that teaches software engineering, computer programming, data science, and cybersecurity analytics"
+      },
+      {
+        "school":"Lock Haven Univerity",
+        "degree":"B.S Psychology(Research)/ Community Health",
+        "graduated":"Feb 2014",
+        "description":" With B.S in Psychology, I lead  research within and outside of the USA, ran 2 nurse home representing an estimated annual $14 million of service."
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Monday.Com Hackerton",
+        "title":"Captain ",
+        "years":"Nov 2020",
+        "description":"Lead the creation of TASKY. An app that empower you to create personal task your way all within the Monday.com platform "
+      },
+      {
+        "company":"DevPost PPE Sustainability Kit",
+        "title":"Captain",
+        "years":"July 2020",
+        "description":"Created Hygea. A subscription based PPE delivery system that provides users fresh  protective gear while handling and safely dispoing the used  kits"
+      },
+      {
+        "company":"JP Morgan Chase & Co",
+        "title":"Intern",
+        "years":"may 2020",
+        "description":"Implemented Perspective open source code to interface with stock price data, while setting up systems to analysis those data"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Ruby",
+        "level":"79%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Redux",
+        "level":"70%"
+      },
+      {
+        "name":"Jest",
+        "level":"50%"
+      },
+      {
+        "name":"Awesome",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"TASKY",
+        "category":"An app the empowers you to create your personal task your way all within Monday.com platform",
+        "image":"TASKY.png",
+        "url":"https://devpost.com/software/tasky-b2a0ku?ref_content=user-portfolio&ref_feature=in_progress"
+      },
+      {
+        "title":"PPE Sustainability",
+        "category":"Introducing Hygea. A Subscription based PPE delivery system that provides users fresh protective gear while handling and safely disposing of the used, all in one service",
+        "image":"iu.png",
+        "url":"https://devpost.com/software/hygea"
+      },
+      {
+        "title":"Blog_Post App",
+        "category":"An app that enhance content creators ablility share their thoughts and ideas",
+        "image":"blogpost_pic.jpg",
+        "url":"https://www.youtube.com/watch?v=IqLtybGNwGM&feature=youtu.be"
+      },
+      {
+        "title":"Techuture (what Im thinking)",
+        "category":"Blog Platform for the non-Techi individuals of the future",
+        "image":"techuture.jpg",
+        "url":"http://techuture.com"
+      }
+      
+    ]
+  }
+}
