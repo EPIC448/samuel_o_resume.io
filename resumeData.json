@@ -11,9 +11,10 @@
     "blog":  "http://techuture.com/ ",  
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(willing to relocate)",
+     "street":"(Will relocate)",
       "city":"(Burlington)",
-      "state":"(NewJersy)",
+      "state":"(New Jersey)",
+      "zip": "(code)"
       
     },
     "website": "http://techuture.com/",
