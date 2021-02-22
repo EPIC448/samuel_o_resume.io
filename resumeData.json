@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Samuel.oGun",
+    "name":"Samuel.Ogun",
     "description":"I am a Full Stack Developer with a mind for Product Management. I enjoy taking ideas from  concept to production.",
     "image":"profilepic.jpg",
     "bio":"Curiosity describes my journey be it fitness, coding, or running an e-commerce company. My background spans Psychology, Health, Products Management, and Web Development. My experiences have granted me the opportunity to take several projects and apps from concepts to launch. I look forward to working together.",
@@ -11,10 +11,11 @@
     "blog":  "http://techuture.com/ ",  
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+     "street":"(Will relocate)",
+      "city":"(Burlington)",
+      "state":"(New Jersey)",
+      "zip": "(code)"
+      
     },
     "website": "http://techuture.com/",
     "resumedownload":"https://drive.google.com/file/d/1DSPCPjiVSzETkdxn7EehGaQMiJchfzkV/view?usp=sharing",
