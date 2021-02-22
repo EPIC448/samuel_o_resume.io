@@ -133,7 +133,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Car_Inventory",
+        "title":"car_inventory.jpg",
         "category":"An app that empowers a user  to create a personal dealership and create inventories of cars for the created dealership.  However, power to create and delete inventory was granted to Admin users for this project",
         "image":"car_inventory.jpg",
         "url":"https://github.com/EPIC448/car_inventory/tree/main/car_inventory"
