@@ -99,7 +99,6 @@ class Contact extends Component {
                      </li>
                      <li>
                         <span>
-	             <p>test<p/>
                         Life can be much broader once you discover one simple fact. And that is everything around you that you call life was made up by people that were no smarter than you. And you can change it-you can influence it, you can build your own things that other people can use.
                         <a href="#">https://youtu.be/MLAgnACjwf8</a>
                         </span>
