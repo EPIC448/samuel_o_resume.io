@@ -1,1 +1,1 @@
-<!-- First Commit 2O21 -->
+<!-- all parts of the project is working fine, Only the latest tweet part is what i can remove.  it is in the static/js/ main files.  -->
