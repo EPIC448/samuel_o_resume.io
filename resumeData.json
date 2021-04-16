@@ -102,31 +102,31 @@
     "skills":[
       {
         "name":"JavaScript",
-        "level":"100%"
+        "level":"70%"
       },
       {
         "name":"Ruby",
-        "level":"100%"
+        "level":"75%"
       },
       {
         "name":"ReactJs",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"80%"
+        "level":"50%"
       },
       {
         "name":"Redux",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"Jest",
-        "level":"100%"
+        "level":"70%"
       },
       {
         "name":"Awesome",
-        "level":"102%"
+        "level":"100%"
       }
     ]
   },
