@@ -4,3 +4,8 @@
    √Change the about me section+ find a way to make it a public website
 
    Fill in the Education section and work sections.
+
+When App is not runing. Research.  (https://stackoverflow.com/questions/47612580/react-scripts-command-not-found)
+
+App is build with React.
+To run, "npm start"
