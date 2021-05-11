@@ -93,16 +93,16 @@ class Contact extends Component {
                      <li>
                         <span>
                         When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
-                        <a href="#">http://techuture.com</a>
+                        
                         </span>
-                        <b><a href="#">2 Days Ago</a></b>
+                        
                      </li>
                      <li>
                         <span>
                         Life can be much broader once you discover one simple fact. And that is everything around you that you call life was made up by people that were no smarter than you. And you can change it-you can influence it, you can build your own things that other people can use.
-                        <a href="#">https://youtu.be/MLAgnACjwf8</a>
+                      
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                       
                      </li>
                   </ul>
 		         </div>
