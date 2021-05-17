@@ -13,3 +13,8 @@ To run, "npm start"
 
  Important resources to Publish to Website. It take 20 minutes.
  https://docs.github.com/en/pagesgetting-started-with-github-pagescreating-a-github-pages-site#creating-your-site
+
+ Important Note. How to Run File. 
+ ./public/resumeData.json -> Code thats runs in the local enviornment. 
+
+ ./resumeData.json -> run in external build like GitHub page.
