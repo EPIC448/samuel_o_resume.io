@@ -9,3 +9,7 @@ When App is not runing. Research.  (https://stackoverflow.com/questions/47612580
 
 App is build with React.
 To run, "npm start"
+
+
+ Important resources to Publish to Website. It take 20 minutes.
+ https://docs.github.com/en/pagesgetting-started-with-github-pagescreating-a-github-pages-site#creating-your-site
