@@ -18,3 +18,5 @@ To run, "npm start"
  ./public/resumeData.json -> Code thats runs in the local enviornment. 
 
  ./resumeData.json -> run in external build like GitHub page.
+
+ // All Parts of the Code is working Locally and Share website link
