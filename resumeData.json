@@ -50,6 +50,14 @@
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
+         {
+        "school":"Udemy",
+        "degree":"The Complete Guide to React Native + Hook Course",
+        "graduated":"May 2020",
+        "description":
+         "The course equiped me with the ability to Create Real_world Application with React-Native, Reusabel components, concepts of Redux, Implement React design and Methodologies principles, Intergration with FireBase, User authentication and Yelp api. "
+                   
+      },
      {
         "school":"Udemy",
         "degree":"Product Management",
@@ -80,6 +88,12 @@
       
     ],
     "work":[
+        {
+        "company":"National Democratic Training Committe",
+        "title":"SoftWare Engineer ",
+        "years":"May 2021",
+        "description":"Responsible for NDTC mean page and LMS platform for training candidates at all levels of government to run for public office, Implemented Testing and github action to legacy code base for 10+ Million users across all 50 states ,Researched and Drafted end user needs, user cases for github action implementation,  Refactored NDTC website using the Dart Sass and Scss providing a visually appealing experience for the user while removing deprecated features from legacy code"
+      },
       {
         "company":"Monday.Com Hackerton",
         "title":"Captain ",
