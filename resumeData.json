@@ -128,18 +128,18 @@
       },
       {
         "name":"ReactJs",
-        "level":"60%"
+        "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"50%"
+        "name":"SASS",
+        "level":"80%"
       },
       {
-        "name":"Redux",
-        "level":"60%"
+        "name":"Automated Testing",
+        "level":"80%"
       },
       {
-        "name":"Jest",
+        "name":"PHP",
         "level":"70%"
       }
     ]
@@ -147,7 +147,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Tesla_clone [React_Native Mobile App]-- COMING SOON",
+        "title":"Tesla_clone [React_Native Mobile App]",
         "category":"A reactNative application with list of Tesla car offering",
         "image":"tesla.jpeg",
         "url":"https://youtu.be/keBhyck6NLg"
