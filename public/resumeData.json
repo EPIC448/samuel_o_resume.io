@@ -145,6 +145,12 @@
   },
   "portfolio":{
     "projects": [
+       {
+        "title":"YelpFlix [Yelp + Netflix clone]",
+        "category":"A reactNative application that query Yelp's API with a Netflix theme",
+        "image":"yelpFlex.jpeg",
+        "url":"https://youtu.be/G16UGAhVO8Q"
+      },
       {
         "title":"Tesla_clone [React_Native Mobile App]",
         "category":"A reactNative application with list of Tesla car offering",
