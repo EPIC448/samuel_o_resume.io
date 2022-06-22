@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Samuel.Ogun",
+    "name":"Samuel.Ogundiran",
     "description":"I am a Full Stack Developer with a mind for Product Management. I enjoy taking ideas from  concept to production.",
     "image":"profilepic.jpg",
-    "bio":"Curiosity describes my journey be it fitness, coding, or running an e-commerce company. My background spans Psychology, Health, Products Management, and Web Development. My experiences have granted me the opportunity to take several projects and apps from concepts to launch. I look forward to working together.",
+    "bio":"Curiosity describes my journey be it fitness, end-to-end software lifecycle, or running an e-commerce company. Product manager with an software engineering background and experience delivering scalable solutions dedicated to understanding the customer, transparency to stakeholders, and awareness of the market. Experienced in leading and inspiring teams remotely. I look forward to working together.",
     "contactmessage":"Dont be shy, reachout!!! and lets create  something amazing.",
     "email": "samrey2018@gmail.com",
     "phone": "4845380448",
@@ -20,16 +20,6 @@
     "website": "http://techuture.com/",
     "resumedownload":"https://drive.google.com/file/d/1DSPCPjiVSzETkdxn7EehGaQMiJchfzkV/view?usp=sharing",
     "social":[
-      {
-        "name":"Remove-facebook",
-        "url":"https://github.com/EPIC448",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"remove-twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/samuel48/ ",
@@ -50,6 +40,27 @@
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
+      {
+        "school":"Product School",
+        "degree":"Product Managment",
+        "graduated":"July 2022",
+        "description":
+         "Equipping future Product manager with tools and abilities to build products end-to-end, lead cross-functional teams, bulletproof your resume, and ace the PM interview "             
+      },
+      {
+        "school":"Linkedin",
+        "degree":"cybersecurity foundations",
+        "graduated":"May 2020",
+        "description":" foundation for  network, users, and data by learning about the basics of cybersecurity. Security expert Malcolm Shore describes how to assess and mitigate risks using various cybersecurity frameworks and control standards, such as NIST, COBIT 5, and the Payment Card Industry Data Security Standard (PCI DSS)."
+                   
+      },
+      {
+        "school":"Linkedin",
+        "degree":"Programming Foundations: secure coding",
+        "graduated":"May 2020",
+        "description":" course covers building security into the software development life cycle. ability to Move security into your design and build phases by identifying common insecure code issues and embracing the mindset of a security professional. In this course, security architect Frank Moley provides a basic understanding of secure coding practices. Learn how to understand your attackers and risks and mitigate issues at critical junctures in your code, including thick app, client, and server interactions. Plus, explore how to prevent unauthorized access and data leaks with authentication and cryptography."
+                   
+      },
          {
         "school":"Udemy",
         "degree":"The Complete Guide to React Native + Hook Course",
@@ -88,6 +99,12 @@
       
     ],
     "work":[
+      {
+        "company":"Censys",
+        "title":"SoftWare Engineer Intern (focus on Product)",
+        "years":"May 2022",
+        "description":"Responsible for customer facing web applications and dashboard enabling over 1,000 indexed fields and 2,029  port scanned data to displayed to over 2 millions daily users. Collaborated with the engineering team to turn Censys data into customer facing features like Attack Surface  Management which scan the whole internet  24/7 and present history and inventory of the customer asset anywhere on the web. Leading to 68%  increase in customer assets awareness and designed automated solutions for building, testing, monitoring, and deploying applications in a continuous integration environment resulted in 15% in customer retention."
+      },
         {
         "company":"National Democratic Training Committe",
         "title":"SoftWare Engineer ",
@@ -115,32 +132,32 @@
     ],
     "skills":[
       {
-        "name":"JavaScript",
-        "level":"70%"
-      },
-      {
-        "name":"Ruby",
-        "level":"75%"
-      },
-      {
-        "name":"React Native",
+        "name":"RoadMap",
         "level":"80%"
       },
       {
-        "name":"ReactJs",
-        "level":"70%"
+        "name":"user Reasearch",
+        "level":"100%"
+      },
+      {
+        "name":"Mural",
+        "level":"80%"
+      },
+      {
+        "name":"Mixpanel",
+        "level":"90%"
       },
       {
         "name":"SASS",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"Automated Testing",
-        "level":"80%"
+        "level":"70%"
       },
       {
-        "name":"PHP",
-        "level":"70%"
+        "name":"Figma",
+        "level":"80%"
       }
     ]
   },
